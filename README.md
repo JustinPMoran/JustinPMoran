@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Justin Moran
-- 👀 I’m interested in video game programming
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on Video Games
+- 👀 I’m interested in web design and video game programming
+- 🌱 I’m currently learning Java, Python, and HTML
+- 💞️ I’m looking to collaborate on projects of any kind
 - 📫 How to reach me Jmoran0@iastate.edu
 
 <!---
