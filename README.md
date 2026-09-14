@@ -1,5 +1,3 @@
-<h3 align="center">Software Engineer turning complex workflows into fast, dependable products.</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/justinpmoran/">LinkedIn</a> ·
   <a href="mailto:Jmoran0@iastate.edu">Email</a>
