@@ -8,26 +8,6 @@ I’m currently seeking a **full-time software engineering role** where I can co
 * **4,500+ hours saved annually:** built W. R. Berkley data pipelines that eliminated manual rekeying errors.
 * **End-to-end ownership:** experienced in product decisions, UI implementation, backend integration, debugging, and deployment.
 
-## Featured engineering
-
-### [Project AngelWare](https://github.com/JustinPMoran/lahacks-2026)
-
-**Python · C · OpenCV · PyTorch/DensePose · WebSockets · ESP32 · Raspberry Pi**
-
-Co-built an edge-to-cloud search-and-rescue prototype combining Wi-Fi CSI sensing, real-time computer vision, a wearable touchscreen, and automated voice dispatch through Twilio and ElevenLabs.
-
-### [Vocal Mixer Pro](https://github.com/JustinPMoran/Vocal-Mixer-Pro) · [Live demo](https://vocal-mixer-pro.vercel.app)
-
-**React · JavaScript · Web Audio API · Tailwind CSS**
-
-Created a privacy-first, client-side audio tool that transforms recordings into polished WAV files using filtering, compression, limiting, and normalization—all in the browser.
-
-### [Reminders App](https://github.com/JustinPMoran/Reminders-App)
-
-**TypeScript · React Native · Expo · AsyncStorage**
-
-Built a cross-platform reminder app with persistent state, recurring local notifications, stable cancellation IDs, and platform-specific permission handling.
-
 ## Experience
 
 | Role                           | Organization             | Dates               |
