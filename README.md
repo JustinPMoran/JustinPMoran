@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/justinpmoran/">LinkedIn</a> ·
-  <a href="mailto:Jmoran0@iastate.edu">Email</a>
+  <a href="mailto:justpmoran@gmail.com">Email</a>
 </p>
 
 I’m a **May 2026 Iowa State University Computer Science graduate**, former **Software Engineer Intern at W. R. Berkley**, and **Eagle Scout**. I build end-to-end products across healthcare, insurance automation, and applied AI.
